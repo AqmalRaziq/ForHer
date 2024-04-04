@@ -6,7 +6,7 @@ $(document).ready(function () {
         title: "Hi!!",
         desc: ""
     }, {
-        title: "Atc i like you..",
+        title: "Atcually...I like you..",
         desc: "Maybe it's a pretty simple sentence, a sentence that holds a lot of hope and doubt behind it. There is hope that wants the feeling of love not to fall alone, there is also something that must be prepared in order to accept the consequences."
     }, {
        title: "",
@@ -15,8 +15,8 @@ $(document).ready(function () {
         title: "",
         desc: "If you  uncomfortable just say, I have a crush on you if you already have a boyfriend, sorry... maybe that's all from me, hehe thanks for reading."
     }, {
-        title: "",
-        desc: "I will wait for your reply :)"
+        title: "I will wait for your reply",
+        desc: "--by Mirza--"
  }];
     var currentPage = 0;
     //generate content
