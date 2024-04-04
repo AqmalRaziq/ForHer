@@ -3,10 +3,10 @@ $(document).ready(function () {
      * Main variables
      */
     var content = [{
-        title: "I Have Crush On You!!",
+        title: "Hi!!",
         desc: ""
     }, {
-        title: "I Have Crush On You!!",
+        title: "Atc i like you..",
         desc: "Maybe it's a pretty simple sentence, a sentence that holds a lot of hope and doubt behind it. There is hope that wants the feeling of love not to fall alone, there is also something that must be prepared in order to accept the consequences."
     }, {
        title: "",
